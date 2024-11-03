@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939954066788",
+    "project_id": "email-otp-7a9ff",
+    "storage_bucket": "email-otp-7a9ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939954066788:android:1cd77fa70e80f3803e1671",
+        "android_client_info": {
+          "package_name": "com.example.email_otp_nodejs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSex8tvTKiP6tdErpHlLPtP1eYIHcOdnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
